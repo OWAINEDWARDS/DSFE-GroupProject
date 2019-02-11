@@ -10,12 +10,6 @@ We plan to use our knowledge of what makes our planet habitable, i.e, escape vel
 
 ### Group Members:
 
-* Owain Edwards - Computer Science,
-* Theo Crowley - Computer Science,
-* Frances Laing - .
-
--------------------------------------------------------
-
-ROW | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-ROW| n | n | n | n |n | n | n | n |n | n | n
+Name| Owain Edwards | Theo Crowley | Frances Laing | 
+--- | --- | --- | --- |
+Course| Computer Science | Computer Science | / | 
