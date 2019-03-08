@@ -1,8 +1,11 @@
+![picture alt](https://hubble25th.org/uploads/article_category/header_image/3/low_hst25th-sci-banner-exoplanets_2x.jpg)
 
 # Title/Question : Analysing Planitary data to find likely candidates for potential/ likely planet habitability.
 ## DSFE-GroupProject - UoB
 
-### Data Source/Sources: https://www.kaggle.com/mrisdal/open-exoplanet-catalogue/version/2
+### Data Source/Sources: 
+- https://www.kaggle.com/mrisdal/open-exoplanet-catalogue/version/2
+- https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets
 
 # Our Idea:
 
@@ -13,3 +16,11 @@ We plan to use our knowledge of what makes our planet habitable, i.e, escape vel
 Name| Owain Edwards | Theo Crowley | Frances Laing | 
 --- | --- | --- | --- |
 Course| Computer Science | Computer Science | / | 
+
+# Check List #
+
+- [x] Initial Analysis of planetary characteristics.
+- [ ] Determine Potential candidates for habilitability.
+- [ ] Machine Learning algorithm implemented?
+
+Commit and push! :cloud::cloud::cloud:
