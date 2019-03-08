@@ -22,3 +22,5 @@ Course| Computer Science | Computer Science | / |
 - [x] Initial Analysis of planetary characteristics.
 - [ ] Determine Potential candidates for habilitability.
 - [ ] Machine Learning algorithm implemented?
+
+Commit and push! :cloud::cloud::cloud:
