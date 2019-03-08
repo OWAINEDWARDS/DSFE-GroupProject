@@ -11,6 +11,12 @@
 
 We plan to use our knowledge of what makes our planet habitable, i.e, escape velocity, surface temperature; The distance from the star; eccentricity of orbit; mass of the planet and other characteristics to determine which exoplanets in the data set could hold potential for life by, analysing similar data about earth. We could pick out the most likely planets within the .csv file and conclude and present other data about them.
 
+### Organised into 3 main parts:
+- Initial analysis of data. And representing data in graphical form.
+Using the initial analysis, ideas and data about habitability to fully determine habitability. → then relate to initial analysis.
+Calculating habilitbility with different characteristics and properties within the dataset.
+- What the theory behind each idea / analysis means and what role does it have in habilitibility.
+- Use Machine learning to further reinforce our findings or disprove our findings.
 ### Group Members:
 
 Name| Owain Edwards | Theo Crowley | Frances Laing | 
@@ -24,3 +30,6 @@ Course| Computer Science | Computer Science | / |
 - [ ] Machine Learning algorithm implemented?
 
 Commit and push! :cloud::cloud::cloud:
+
+Progress Report 08/03/2019 - 
+[Progress Report Presentation](https://docs.google.com/presentation/d/1OVSldk-4822t0HNgWfyCIhKOZT5yw2zSV-3S6FA88UM/edit#slide=id.g5262b6be59_0_136)
