@@ -31,6 +31,6 @@ Course| Computer Science | Computer Science | / |
 
 Commit and push! :cloud::cloud::cloud:
 
-##Progress Report 08/03/2019 
+## Progress Report 08/03/2019 
 
 [Progress Report Presentation](https://docs.google.com/presentation/d/1OVSldk-4822t0HNgWfyCIhKOZT5yw2zSV-3S6FA88UM/edit#slide=id.g5262b6be59_0_136)
