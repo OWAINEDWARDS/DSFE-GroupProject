@@ -18,6 +18,6 @@ Course| Computer Science | Computer Science | / |
 
 # Check List #
 
-- [x] Initial Analysis
+- [x] Initial Analysis of planetary characteristics.
 - [ ] Determine Potential candidates for habilitability.
 - [ ] Machine Learning algorithm implemented?
