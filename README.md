@@ -6,6 +6,7 @@
 ### Data Source/Sources: 
 - https://www.kaggle.com/mrisdal/open-exoplanet-catalogue/version/2
 - https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets
+- https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets
 
 # Our Idea:
 
