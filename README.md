@@ -19,9 +19,9 @@ Calculating habilitbility with different characteristics and properties within t
 - Use Machine learning to further reinforce our findings or disprove our findings.
 ### Group Members:
 
-Name| Owain Edwards | Theo Crowley | Frances Laing | 
---- | --- | --- | --- |
-Course| Computer Science | Computer Science | / | 
+Name| Owain Edwards | Theo Crowley | 
+--- | --- | --- |
+Course| Computer Science | Computer Science | 
 
 # Check List #
 
