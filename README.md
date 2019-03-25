@@ -1,6 +1,6 @@
 ![picture alt](https://hubble25th.org/uploads/article_category/header_image/3/low_hst25th-sci-banner-exoplanets_2x.jpg)
 
-# Title/Question : Analysing Planitary data to find likely candidates for potential/ likely planet habitability.
+# Title/Question : Analysing Planitary data to find likely candidates for potential/ likely planet habitability. Can Humanity Live on these planets? -> the ultimate question us humans want to know.
 ## DSFE-GroupProject - UoB
 
 ### Data Source/Sources: 
