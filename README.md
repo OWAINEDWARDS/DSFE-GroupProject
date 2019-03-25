@@ -7,6 +7,7 @@
 - https://www.kaggle.com/mrisdal/open-exoplanet-catalogue/version/2
 - https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets
 - https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets
+- https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion
 
 # Our Idea:
 
