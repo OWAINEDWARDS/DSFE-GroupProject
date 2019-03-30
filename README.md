@@ -31,9 +31,9 @@ Course| Computer Science | Computer Science |
 - [x] Determine Potential candidates for habilitability.
 - [x] Machine Learning algorithm implemented?
 ### Planetary Charactersitics : 
-- [ ] Mass to low mass planets are unsuitable - considered? 
-- [ ] Lesser gravity makes atmosphere retention difficult - considered? 
-- [ ] Logistical regression to determine if planet can hold an atmosphere --> Not having a thick atmosphere provides less protection from high frequency radiation etc...
+- [x] Mass to low mass planets are unsuitable - considered? 
+- [x] Lesser gravity makes atmosphere retention difficult - considered? 
+- [x] Logistical regression to determine if planet can hold an atmosphere --> Not having a thick atmosphere provides less protection from high frequency radiation etc...
 
 
 Commit and push! :cloud::cloud::cloud:
