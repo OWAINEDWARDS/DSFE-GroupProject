@@ -28,8 +28,8 @@ Course| Computer Science | Computer Science |
 # Check List #
 
 - [x] Initial Analysis of planetary characteristics.
-- [ ] Determine Potential candidates for habilitability.
-- [ ] Machine Learning algorithm implemented?
+- [x] Determine Potential candidates for habilitability.
+- [x] Machine Learning algorithm implemented?
 ### Planetary Charactersitics : 
 - [ ] Mass to low mass planets are unsuitable - considered? 
 - [ ] Lesser gravity makes atmosphere retention difficult - considered? 
